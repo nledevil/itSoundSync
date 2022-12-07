@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "node-ble": "^1.9.0",
+    "underscore": "^1.13.6",
+    "web-audio-api": "^0.2.2"
+  }
+}
